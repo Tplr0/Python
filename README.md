@@ -1,4 +1,4 @@
-# Python
+# Spotifystats-python
 **Spotify Stats Viewer**
 spotify_stats.py is a Python script that allows you to view your top tracks, artists, genres, and recently played tracks from your Spotify account. It uses the Spotify API to retrieve data, displaying it in a user-friendly GUI built with Tkinter.
 
