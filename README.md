@@ -18,9 +18,11 @@ To run this project, you'll need:
 **Getting Started**
 *Clone the Repository:*
 
-git clone [https://github.com/Tplr0/Python/blob/f9f64f9dd06c42d8292392d49fb64626602bcc91/spotify_stats.py](https://github.com/Tplr0/Python/blob/main/spotify_stats.py)
 
-cd spotify_stats_viewer
+git clone [https://github.com/Tplr0/spotifystats-python/blob/main/spotify_stats.py](https://github.com/Tplr0/spotifystats-python/blob/main/spotify_stats.py
+) 
+```cd spotify_stats_viewer```
+
 
 *Install Dependencies: Use pip to install the required packages:*
 
