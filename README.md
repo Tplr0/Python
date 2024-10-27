@@ -66,3 +66,10 @@ or
 **Troubleshooting**
 - ModuleNotFoundError: No module named 'spotipy': Ensure spotipy is installed using pip install spotipy and try running the script again.
 - SpotifyOAuthError: No client_id: Double-check that Clientid.txt and Clientsecret.txt files are correctly placed in the same directory as spotify_stats.py and contain the correct values.
+
+  ## Acknowledgments
+
+This project was built with the help of the following libraries:
+- [Spotipy](https://spotipy.readthedocs.io/) - A lightweight Python library for the Spotify Web API
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI library
+
