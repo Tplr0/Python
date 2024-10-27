@@ -25,6 +25,10 @@ To run this project, you'll need:
 git clone https://github.com/Tplr0/spotifystats-python.git
 cd spotifystats-python
 ```
+or
+```
+gh repo clone Tplr0/spotifystats-python
+```
 
 
 *Install Dependencies: Use pip to install the required packages:*
