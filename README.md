@@ -57,7 +57,7 @@ or
 
 **Usage**
 
-- Time Range Selection: Choose the time range (Last 4 weeks, Last 6 months, or All time) from the dropdown menu to view your top tracks and artists based on that period.
+- Time Range Selection: Choose the time range (Last 4 weeks, Last 6 months, or Last 12 months) from the dropdown menu to view your top tracks and artists based on that period.
 - Fetch Data: Click the "Fetch Data" button to retrieve and display your Spotify stats.
 - Theme Toggle: Use the "Toggle Theme" button to switch between light and dark modes.
 - Double-click on Tracks: Double-clicking on a track in the "Top Tracks" list opens it in your default browser.
