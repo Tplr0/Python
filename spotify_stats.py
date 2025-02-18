@@ -165,7 +165,7 @@ time_range_label = ttk.Label(root, text="Select Time Range:", style="TLabel")
 time_range_label.grid(row=0, column=0, padx=10, pady=5, sticky="w")
 
 time_range_dropdown = ttk.Combobox(root, textvariable=time_range_var, state="readonly", style="TCombobox")
-time_range_dropdown['values'] = ['Last 4 weeks', 'Last 6 months', 'All time']
+time_range_dropdown['values'] = ['Last 4 weeks', 'Last 6 months', 'Last 12 months']
 time_range_dropdown.grid(row=0, column=0, padx=150, pady=5, sticky="ew")
 
 # Last Updated Label
